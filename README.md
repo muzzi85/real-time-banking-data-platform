@@ -1,6 +1,7 @@
 # Real-Time Banking Data Platform
 
 ## Overview
+<img width="1536" height="1023" alt="image" src="https://github.com/user-attachments/assets/c229614e-e3e8-408e-a779-1d674b9f2af2" />
 
 This project demonstrates a complete real-time banking streaming architecture using:
 
