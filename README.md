@@ -1,7 +1,7 @@
 # Real-Time Banking Data Platform
 
 ## Overview
-<img width="1536" height="1023" alt="image" src="https://github.com/user-attachments/assets/c229614e-e3e8-408e-a779-1d674b9f2af2" />
+<img width="1536" height="1024" alt="ChatGPT Image May 19, 2026, 01_34_18 AM (1)" src="https://github.com/user-attachments/assets/2943b0ba-8915-4851-868d-d9239154d8dc" />
 
 This project demonstrates a complete real-time banking streaming architecture using:
 
