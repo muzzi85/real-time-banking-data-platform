@@ -3,6 +3,65 @@
 ## Overview
 <img width="1536" height="1024" alt="ChatGPT Image May 19, 2026, 01_34_18 AM (1)" src="https://github.com/user-attachments/assets/2943b0ba-8915-4851-868d-d9239154d8dc" />
 
+Business Problem
+
+Modern banks process massive volumes of real-time transactional activity across multiple channels:
+
+ATM withdrawals,
+POS card transactions,
+online banking payments,
+international transfers,
+mobile banking activity,
+cross-border spending behaviour.
+
+Traditional fraud systems often rely on:
+
+delayed batch processing,
+manual investigations,
+static fraud reports,
+siloed monitoring systems.
+
+This creates major challenges:
+
+fraud detection delays,
+operational risk exposure,
+high false positives,
+poor real-time visibility,
+slow analyst response times.
+
+This platform solves the problem through a real-time event-driven architecture capable of:
+
+streaming banking transactions in real time,
+detecting suspicious activity instantly,
+generating fraud alerts automatically,
+enriching alerts with AI-powered explanations,
+enabling scalable distributed fraud monitoring.
+
+The platform combines:
+
+Apache Kafka for event streaming,
+Apache Spark Structured Streaming for distributed fraud detection,
+rule-based real-time fraud analytics,
+local LLM-powered agentic AI monitoring,
+event-driven banking intelligence workflows.
+
+The system supports:
+
+real-time fraud detection,
+suspicious transaction monitoring,
+AI-assisted fraud investigations,
+analyst alert prioritization,
+scalable streaming analytics,
+enterprise banking observability.
+
+By integrating deterministic fraud rules with grounded AI summarization, the platform demonstrates a modern enterprise architecture for:
+
+AI-powered banking operations,
+streaming financial intelligence,
+agentic fraud monitoring,
+distributed real-time analytics,
+trustworthy enterprise AI systems.
+
 This project demonstrates a complete real-time banking streaming architecture using:
 
 - Apache Kafka
